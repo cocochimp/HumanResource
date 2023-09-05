@@ -1,0 +1,52 @@
+/* 全局样式表 */
+
+html,
+body,
+#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    min-width: 1366px;
+    /* overflow: hidden; */
+}
+
+.el-breadcrumb {
+    margin-bottom: 15px;
+}
+
+.el-table {
+    margin-top: 15px;
+}
+
+.el-pagination {
+    margin-top: 15px;
+}
+
+.el-cascader-menu {
+    height: 300px;
+}
+
+.el-steps {
+    margin: 15px 0;
+}
+
+.el-step__title {
+    font-size: 13px;
+}
+
+.ql-editor {
+    min-height: 300px;
+}
+
+
+/* .el-select {
+    width: 150px!important;
+}
+
+.el-form-item {
+    height: 10px!important;
+}
+
+.el-form-item .btns {
+    height: 10px!important;
+} */
