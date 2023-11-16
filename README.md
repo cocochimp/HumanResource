@@ -1,4 +1,5 @@
-# 快速开始
+# HumanResource
+🥇基于SpringBoot2.6，c3p0，swagger，Vue&Element框架开发的广东海洋大学人力资源管理系统
 
 > 运行方式
 
