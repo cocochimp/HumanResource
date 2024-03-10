@@ -1,5 +1,12 @@
-# HumanResource
+# HumanResource人力资源系统
+
 🥇基于SpringBoot2.6，c3p0，swagger，Vue&Element框架开发的广东海洋大学人力资源管理系统
+
+github地址：https://github.com/cocochimp/HumanResource
+
+
+
+# 启动命令
 
 > 运行方式
 
@@ -11,14 +18,14 @@
 
 
 
-# 运行环境
+> 运行环境
 
 - java:8（jdk1.8）
 - mysql:5.6.35
 
 
 
-# 核心依赖
+# 项目结构
 
 > 后端技术栈
 
@@ -33,7 +40,7 @@
 
 
 
-# 页面介绍
+# 📚页面展示📚
 
 ## 首页
 
