@@ -1,6 +1,6 @@
 # 人力资源系统（毕设、课设）
 
-🥇基于SpringBoot2.6，c3p0，swagger，Vue&Element框架开发的广东海洋大学人力资源管理系统
+🥇基于SpringBoot2.6，c3p0，swagger，Vue&Element框架开发的人力资源管理系统
 
 github地址：https://github.com/cocochimp/HumanResource
 
