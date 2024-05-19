@@ -1,9 +1,6 @@
-### VS Code ###
-.DS_Store
-!**/node_modules/
-!**/dist/
-**/node_modules/
-**/dist/
+sql/
+logs/
+deploy/
 
 HELP.md
 target/
@@ -35,3 +32,6 @@ target/
 build/
 !**/src/main/**/build/
 !**/src/test/**/build/
+
+### VS Code ###
+.vscode/
